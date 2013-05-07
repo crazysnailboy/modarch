@@ -2,6 +2,8 @@
 
 This mod adds 33 new decorative blocks to Minecraft: 16 colors of drywall, 16 colors of concrete, and a steel truss. All can be crafted inexpensively with vanilla ingredients.
 
+![Screenshot of all Modern Architecture blocks](dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/all_blocks.png)
+
 It's built against Minecraft 1.4.7, which means it plays nicely with popular mods like IndustrialCraft. If there is sufficient interest, I will try to find time to make a version for 1.5.1.
 
 ## Download
