@@ -4,7 +4,7 @@ This mod adds 33 new decorative blocks to Minecraft: 16 colors of drywall, 16 co
 
 ![Screenshot of all Modern Architecture blocks](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/all_blocks.jpg)
 
-It's built against Minecraft 1.4.7, which means it plays nicely with popular mods like IndustrialCraft. If there is sufficient interest, I will try to find time to make a version for 1.5.1 or 1.5.2.
+It's built against Minecraft 1.4.7, which means it plays nicely with popular mods. If there is sufficient interest, I will try to find time to make a version for 1.5.1 or 1.5.2.
 
 # Recipes
 
@@ -34,7 +34,7 @@ A truss is 5 iron ingots:
 
 ## Installation
 
-Install [Minecraft Forge](http://www.minecraftforge.net/wiki/Installation/Universal) if you don't already have it. FYI, if you have IndustrialCraft, BuildCraft, or RedPower installed, you already have Forge.
+Install [Minecraft Forge](http://www.minecraftforge.net/wiki/Installation/Universal) if you don't already have it.
 
 modarch.jar goes in the mods folder. If you don't know what this means, I recommend installing [MultiMc](http://www.minecraftforum.net/topic/1000645-multimc-43-windows-linux-mac/), which automates a lot of the drudgery of installing mods. Once you have MultiMC installed, create a new Minecraft 1.4.7 instance, right click it, select "Edit Mods," click the "Mods Folder" tab, click "Add," and select modarch.jar. You're done!
 
