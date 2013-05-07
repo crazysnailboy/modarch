@@ -26,7 +26,7 @@ You can dye drywall and concrete any color. To save dye, you have to make batche
 
 A truss is 5 iron ingots:
 
-![Truss recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_concrete_dye.png)
+![Truss recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_truss.png)
 
 ## Download
 
