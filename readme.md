@@ -6,12 +6,14 @@ It's built against Minecraft 1.4.7, which means it plays nicely with popular mod
 
 ## Download
 
-[modarch.jar](http://example.com)
+[modarch.jar](https://github.com/jarrett/modarch/blob/master/bin/modarch.jar) for MC 1.4.7
 
 ## Installation
 
 Install [Minecraft Forge](http://www.minecraftforge.net/wiki/Installation/Universal) if you don't already have it. FYI, if you have IndustrialCraft, BuildCraft, or RedPower installed, you already have Forge.
 
 modarch.jar goes in the mods folder. If you don't know what this means, I recommend installing [MultiMc](http://www.minecraftforum.net/topic/1000645-multimc-43-windows-linux-mac/), which automates a lot of the drudgery of installing mods. Once you have MultiMC installed, create a new Minecraft 1.4.7 instance, right click it, select "Edit Mods," click the "Mods Folder" tab, click "Add," and select modarch.jar. You're done!
+
+This mod was built against Forge version 6.6.0.497. If you are using a different version of Forge and run into any errors, please try installing 6.6.0.497.
 
 If you have any questions about installing this mod, please feel free to contact me. Just remember, it's only compatible with MC 1.4.7.
