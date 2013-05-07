@@ -6,6 +6,28 @@ This mod adds 33 new decorative blocks to Minecraft: 16 colors of drywall, 16 co
 
 It's built against Minecraft 1.4.7, which means it plays nicely with popular mods like IndustrialCraft. If there is sufficient interest, I will try to find time to make a version for 1.5.1.
 
+# Recipes
+
+These are decorative blocks, so everything is inexpensive. Dye usage is minimal.
+
+Drywall is 6 cobblestone and 3 sand:
+
+![Drywall recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_drywall.png)
+
+Concrete is 8 cobblestone and 1 sand:
+
+![Concrete recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_concrete.png)
+
+You can dye drywall and concrete any color. To save dye, you have to make batches of 8 blocks:
+
+![Dyed drywall recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_drywall_dye.png)
+
+![Dyed concrete recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_concrete_dye.png)
+
+A truss is 5 iron ingots:
+
+![Truss recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_concrete_dye.png)
+
 ## Download
 
 [modarch.jar](https://github.com/jarrett/modarch/blob/master/bin/modarch.jar) for MC 1.4.7
