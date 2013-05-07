@@ -1,0 +1,16 @@
+[
+{
+	"modid": "HQModArch",
+	"name": "Modern Architecture",
+	"description": "Provides several blocks for more modern decor",
+	"version": "0.0.0",
+	"credits": "",
+	"authors": ["jarrett"],
+	"logoFile": "",
+	"url": "",
+	"updateUrl": "",
+	"parent": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]
