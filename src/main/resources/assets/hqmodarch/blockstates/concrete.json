@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "colour=white": { "model": "hqmodarch:concrete.white" },
+        "colour=orange": { "model": "hqmodarch:concrete.orange" },
+        "colour=magenta": { "model": "hqmodarch:concrete.magenta" },
+        "colour=lightblue": { "model": "hqmodarch:concrete.lightblue" },
+        "colour=yellow": { "model": "hqmodarch:concrete.yellow" },
+        "colour=lime": { "model": "hqmodarch:concrete.lime" },
+        "colour=pink": { "model": "hqmodarch:concrete.pink" },
+        "colour=gray": { "model": "hqmodarch:concrete.gray" },
+        "colour=lightgray": { "model": "hqmodarch:concrete.lightgray" },
+        "colour=cyan": { "model": "hqmodarch:concrete.cyan" },
+        "colour=purple": { "model": "hqmodarch:concrete.purple" },
+        "colour=blue": { "model": "hqmodarch:concrete.blue" },
+        "colour=brown": { "model": "hqmodarch:concrete.brown" },
+        "colour=green": { "model": "hqmodarch:concrete.green" },
+        "colour=red": { "model": "hqmodarch:concrete.red" },
+        "colour=black": { "model": "hqmodarch:concrete.black" }
+        
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "colour=white": { "model": "hqmodarch:drywall.white" },
+        "colour=orange": { "model": "hqmodarch:drywall.orange" },
+        "colour=magenta": { "model": "hqmodarch:drywall.magenta" },
+        "colour=lightblue": { "model": "hqmodarch:drywall.lightblue" },
+        "colour=yellow": { "model": "hqmodarch:drywall.yellow" },
+        "colour=lime": { "model": "hqmodarch:drywall.lime" },
+        "colour=pink": { "model": "hqmodarch:drywall.pink" },
+        "colour=gray": { "model": "hqmodarch:drywall.gray" },
+        "colour=lightgray": { "model": "hqmodarch:drywall.lightgray" },
+        "colour=cyan": { "model": "hqmodarch:drywall.cyan" },
+        "colour=purple": { "model": "hqmodarch:drywall.purple" },
+        "colour=blue": { "model": "hqmodarch:drywall.blue" },
+        "colour=brown": { "model": "hqmodarch:drywall.brown" },
+        "colour=green": { "model": "hqmodarch:drywall.green" },
+        "colour=red": { "model": "hqmodarch:drywall.red" },
+        "colour=black": { "model": "hqmodarch:drywall.black" }
+        
+    }
+}
