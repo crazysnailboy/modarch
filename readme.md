@@ -4,8 +4,14 @@ This mod adds 33 new decorative blocks to Minecraft: 16 colors of drywall, 16 co
 
 ![Screenshot of all Modern Architecture blocks](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/all_blocks.jpg)
 
-It's built against Minecraft 1.8
-<del>It's built against Minecraft 1.4.7, which means it plays nicely with popular mods. If there is sufficient interest, I will try to find time to make a version for 1.5.1 or 1.5.2.</del>
+
+## Download
+
+[modarch.jar](https://github.com/crazysnailboy/modarch/raw/master/bin/modarch.jar)
+
+*Requires Forge 11.14.1.1336*
+
+
 
 # Recipes
 
@@ -29,9 +35,7 @@ A truss is 5 iron ingots:
 
 ![Truss recipe](http://dvb58ja3wxsfj.cloudfront.net/minecraft/modarch/recipe_truss.png)
 
-## Download
 
-[modarch.jar](https://github.com/crazysnailboy/modarch/blob/master/bin/modarch.jar) for MC 1.8
 
 ## Installation
 
