@@ -20,8 +20,6 @@ public class ModArch
 	public static final String MOD_NAME = "Modern Architecture";
 	public static final String VERSION = "0.0.0";
 	
-//	@Instance("HQModarch")
-//	public static ModArch instance;
 	
 	public static Block drywall;
 	public static Block concrete;
@@ -52,14 +50,9 @@ public class ModArch
 	@EventHandler
     public void init(FMLInitializationEvent event) {
     	
-//    	GameRegistry.registerBlock(drywall, ItemDrywall.class, drywall.getUnlocalizedName().substring(5));
-//    	GameRegistry.registerBlock(concrete, ItemConcrete.class, concrete.getUnlocalizedName().substring(5));
-//    	GameRegistry.registerBlock(truss, truss.getUnlocalizedName().substring(5));
-
 		registerBlock(drywall, ItemDrywall.class, BlockDyed.EnumColour.values());
 		registerBlock(concrete, ItemDrywall.class, BlockDyed.EnumColour.values());
 		registerBlock(truss);
-		
 		
     	((BlockDrywall)drywall).addRecipes();
 //    	MinecraftForge.setBlockHarvestLevel(drywall, "pickaxe", 0);

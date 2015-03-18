@@ -1,0 +1,42 @@
+
+language.name=English
+language.region=US
+language.code=en_US
+
+itemGroup.modArchTab=Modern Architecture
+
+tile.concrete.white.name=White Concrete
+tile.concrete.orange.name=Orange Concrete
+tile.concrete.magenta.name=Magenta Concrete
+tile.concrete.lightblue.name=Light Blue Concrete
+tile.concrete.yellow.name=Yellow Concrete
+tile.concrete.lime.name=Lime Concrete
+tile.concrete.pink.name=Pink Concrete
+tile.concrete.gray.name=Gray Concrete
+tile.concrete.lightgray.name=Light Gray Concrete
+tile.concrete.cyan.name=Cyan Concrete
+tile.concrete.purple.name=Purple Concrete
+tile.concrete.blue.name=Blue Concrete
+tile.concrete.brown.name=Brown Concrete
+tile.concrete.green.name=Green Concrete
+tile.concrete.red.name=Red Concrete
+tile.concrete.black.name=Black Concrete
+
+tile.drywall.white.name=White Drywall
+tile.drywall.orange.name=Orange Drywall
+tile.drywall.magenta.name=Magenta Drywall
+tile.drywall.lightblue.name=Light Blue Drywall
+tile.drywall.yellow.name=Yellow Drywall
+tile.drywall.lime.name=Lime Drywall
+tile.drywall.pink.name=Pink Drywall
+tile.drywall.gray.name=Gray Drywall
+tile.drywall.lightgray.name=Light Gray Drywall
+tile.drywall.cyan.name=Cyan Drywall
+tile.drywall.purple.name=Purple Drywall
+tile.drywall.blue.name=Blue Drywall
+tile.drywall.brown.name=Brown Drywall
+tile.drywall.green.name=Green Drywall
+tile.drywall.red.name=Red Drywall
+tile.drywall.black.name=Black Drywall
+
+tile.truss.name=Steel Truss
