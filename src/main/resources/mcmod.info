@@ -1,0 +1,14 @@
+[{
+	"modid": "hqmodarch",
+	"name": "Modern Architecture",
+	"description": "§7Provides several blocks for more modern decor",
+	"version": "§70.0.0",
+	"mcversion": "§71.8",
+	"credits": "§7Originally created by jarrett",
+	"authorList": ["§8jarrett","§7crazysnailboy"],
+	"url": "§7https://github.com/crazysnailboy/modarch",
+	"updateUrl": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]
